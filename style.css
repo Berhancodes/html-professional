@@ -1,0 +1,56 @@
+body{background-color: #6C5F5B;}
+
+
+h1{
+    
+    color: antiquewhite;
+
+    text-align: center;
+
+
+}
+
+h2{color: antiquewhite;}
+
+/* The anchor tags  */
+a{color: #F1EFEF;
+
+
+
+}
+
+.Me{
+    height: 200;
+    width: 200;
+}
+
+
+
+.Goats {
+   
+    position:relative ;
+    left: 990px;
+
+    
+}
+
+
+
+
+.meme{
+    position: relative;
+    
+    left: 450px;
+}
+
+
+p{color: rgb(223, 214, 202);
+
+  
+  text-align: center;
+
+
+
+
+
+  }
